@@ -1,6 +1,5 @@
 
-![API Study Jams]([https://github.com/Abyssalwolf/AIchatbot-flutter/blob/main/APIflutterbanner.png])
-
+![APIflutterbanner](https://github.com/Abyssalwolf/AIchatbot-flutter/assets/117766338/c4bb4780-5862-4e73-aa81-05a68b8ad33e)
 
 # Educational AI Chatbot
 This project aims to create a AIChatbot built on flutter that answers any queries related to education. It provides resources and answers to any learning related query.
