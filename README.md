@@ -1,5 +1,5 @@
 
-![Novel Frame](https://github.com/TH-Activities/saturday-hack-night-template/assets/90635335/4c26e8ac-2dd1-4d75-8e1a-9f7585e3b381)
+![API Study Jams]([https://github.com/Abyssalwolf/AIchatbot-flutter/blob/main/APIflutterbanner.png])
 
 
 # Educational AI Chatbot
